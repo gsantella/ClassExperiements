@@ -1,3 +1,7 @@
+fizzbuzz / bogo sort / bubble sort / chilipepper 
+
+libraries / orms / C# retry library
+
 transforms
 
 string methods
