@@ -1,0 +1,33 @@
+transforms
+
+string methods
+
+regular expressions
+
+connect to api
+
+try/catch
+
+data structures - complex json
+
+array - push,pop,frontof
+
+time/space complexity
+
+recursion
+
+classes - advanced oop concepts
+
+complex calculations
+
+read/write from repl db
+
+file reading / writing - csv
+
+events
+
+move things / trigger things
+
+commands and queries
+
+create a simple api
