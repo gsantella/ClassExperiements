@@ -6,6 +6,10 @@ transforms
 
 string methods
 
+functional programming . ramda
+
+lambdas
+
 regular expressions
 
 connect to api
@@ -35,3 +39,5 @@ move things / trigger things
 commands and queries
 
 create a simple api
+
+linters / security tools / static analysis
